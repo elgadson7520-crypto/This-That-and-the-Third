@@ -1,0 +1,21 @@
+# Spreadsheet exports (original source files)
+*.xlsx
+Data.html
+Instructions.html
+Locations.html
+Menu.html
+Overview.html
+Revenue.html
+Search.html
+resources/
+
+# Vercel
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
